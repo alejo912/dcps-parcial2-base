@@ -16,3 +16,25 @@
 .author-detail {
   width: 80%;
 }
+
+.container1 {
+  width: 50%;
+  display: flex;
+  flex-flow: column;
+  justify-content: left;
+}
+
+.container2 {
+  padding-top: 10px;
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.alert {
+  text-align: center;
+  border: 1px solid #ff2635;
+  border-radius: 5px;
+}
